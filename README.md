@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+## Preview
+
+![preview image](https://raw.githubusercontent.com/victorcmarinho/Questionario-flutter/main/images/preview.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
